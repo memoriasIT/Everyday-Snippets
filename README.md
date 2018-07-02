@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/A9F6O6X.png" width="500">
 </h1>
 
-<h2>Tales of a programmer</h2>
+<h1>Tales of a programmer</h1>
 
 <h2>Photography</h2>
 <ul>
